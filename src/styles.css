@@ -1,0 +1,27 @@
+div#content {
+    text-align: center;
+}
+
+img {
+    
+    max-width: 800px;
+}
+
+.menuSection {
+    text-align: center;
+}
+
+table {
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+tr {
+    height: 25px;
+}
+
+td {
+    padding: 0 10px;
+    text-align: left;
+}
