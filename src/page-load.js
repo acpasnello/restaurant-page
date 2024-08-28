@@ -14,6 +14,8 @@ export function pageLoad () {
 
     let children = [title, info, pic]
 
+    let homeButton = document.getElementById('home')
+    homeButton.classList.add('active')
     for (let i = 0; i < children.length; i++) {
         parentDiv.appendChild(children[i])
     }
